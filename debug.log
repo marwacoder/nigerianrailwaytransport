@@ -1,0 +1,36 @@
+[1103/112836.720:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/135003.237:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/151749.869:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1121/125941.445:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1121/235610.846:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/233934.722:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/233934.756:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JIBRIL MOHAMMED\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\7914a5b8-a865-4863-a82a-f11379a59110: The system cannot find the path specified. (0x3)
+[1203/042525.196:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1207/234204.191:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/164105.894:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[1208/164105.894:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1208/164105.894:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1208/164105.881:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1208/164105.881:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1208/164105.940:ERROR:exception_snapshot_win.cc(99)] thread ID 2272 not found in process
+[1208/164105.940:ERROR:exception_snapshot_win.cc(99)] thread ID 17844 not found in process
+[1208/164105.894:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1208/164105.941:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1208/171138.397:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1209/124141.899:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1210/111520.469:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1210/111520.528:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JIBRIL MOHAMMED\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f15647ce-cf3b-4b18-bf1a-b8dbe4e2ef04: The system cannot find the path specified. (0x3)
+[1211/115557.766:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1211/120557.865:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1211/120557.875:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JIBRIL MOHAMMED\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\fc8730ee-2625-4728-8b12-f8664cbcf51d: The system cannot find the path specified. (0x3)
+[1221/004217.299:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/235243.248:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/235243.420:ERROR:exception_snapshot_win.cc(99)] thread ID 13356 not found in process
+[1227/000854.842:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1227/000854.924:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JIBRIL MOHAMMED\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f3cd6644-8649-4d08-8a33-20978a417361: The system cannot find the path specified. (0x3)
+[0107/155711.841:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0109/160244.394:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0114/224428.140:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0119/233522.858:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0120/000432.830:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0124/011022.103:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

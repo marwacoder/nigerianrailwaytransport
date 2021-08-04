@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Muli';
+  src: local("Muli"), url("../fonts/Muli-Regular.ttf") format("truetype"); }
+
+
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  line-height: 1.5; }
+table * {
+    font-size: 12px;
+    font-family: 'Times New Roman';
+}
+
+.ticket td,
+.ticket th,
+.ticket tr,
+.ticket table {
+    border-top: 1px dotted black;
+    border-collapse: collapse;
+    border-left: 1px dotted black;
+}
+
+td.description,
+th.description {
+    width: 75px;
+    max-width: 75px;
+}
+
+
+.centered {
+    text-align: center;
+    align-content: center;
+}
+
+
+
+
+
+@media print {
+    .hidden-print,
+    .hidden-print * {
+        display: none !important;
+    }
+}
